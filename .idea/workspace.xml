@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e506d4de-31d0-4359-86a4-242b178314cc" name="Default Changelist" comment="" />
+    <list id="1d21505b-a525-4426-abe7-996c6ce0cf98" name="deletedchanges" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lets-coding-multi-thread-batch-service" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lets-coding-multi-thread-batch-service" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test12" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\ctunc\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1onlijaNADPq17P1OUNJi73G1Bu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lets-coding-db-spring-boot-starter-lib" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.letscoding.batch.multithread.util" />
+      <recent name="com.batch.application.batchapplication" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lets-coding-cloud-task-batch-project\lets-coding-multi-threaded-crm-batch-service\src\main\java\com\letscoding\batch\multithread\job" />
+      <recent name="D:\lets-coding-cloud-task-batch-project\lets-coding-postgress-crm-batch-service\src\main\resources" />
+      <recent name="D:\lets-coding-cloud-task-batch-project\lets-coding-demo-batch-service" />
+      <recent name="D:\batch-application\src\main\java\com\batch\application\batchapplication" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean" />
+      <command value="gradle --refresh-dependencies" />
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringBatchApplication">
+    <configuration name="SpringBatchApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.letscoding.batch.multithread.SpringBatchApplication" />
+      <module name="lets-coding-multi-thread-batch-service.main" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lets-coding-demo-batch-service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="lets-coding-demo-batch-service [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="lets-coding-demo-batch-service" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--refresh-dependencies" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="lets-coding-postgress-crm-batch-service [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringBatchApplication" />
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Gradle.lets-coding-demo-batch-service [clean]" />
+      <item itemvalue="Gradle.lets-coding-demo-batch-service" />
+      <item itemvalue="Gradle.lets-coding-demo-batch-service [build]" />
+      <item itemvalue="Gradle.lets-coding-postgress-crm-batch-service [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.lets-coding-postgress-crm-batch-service [build]" />
+        <item itemvalue="Gradle.lets-coding-demo-batch-service [build]" />
+        <item itemvalue="Gradle.lets-coding-demo-batch-service" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Gradle.lets-coding-demo-batch-service [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e506d4de-31d0-4359-86a4-242b178314cc" name="Default Changelist" comment="" />
+      <changelist id="1d21505b-a525-4426-abe7-996c6ce0cf98" name="deletedchanges" comment="" />
+      <created>1613930366033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613930366033</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1614082061265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614082061265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1617370482880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617370482880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="conver maven to gradle">
+      <created>1618134045993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618134045993</updated>
+    </task>
+    <task id="LOCAL-00004" summary="conver maven to gradle">
+      <created>1618134060219</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618134060219</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactoring fixed">
+      <created>1618304555199</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618304555199</updated>
+    </task>
+    <task id="LOCAL-00006" summary="build gradle refactoring">
+      <created>1618305310129</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618305310129</updated>
+    </task>
+    <task id="LOCAL-00007" summary="build gradle refactoring">
+      <created>1618305719585</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618305719585</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated yml file">
+      <created>1618473562528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618473562528</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added postgress max transaction number env for docker container">
+      <created>1624006494082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624006494082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="conver maven to gradle" />
+    <MESSAGE value="refactoring fixed" />
+    <MESSAGE value="build gradle refactoring" />
+    <MESSAGE value="updated yml file" />
+    <MESSAGE value="added postgress max transaction number env for docker container" />
+    <option name="LAST_COMMIT_MESSAGE" value="added postgress max transaction number env for docker container" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="0" width="969" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627627456834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="0" width="969" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1627627456834" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1627627219137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1627627219137" />
+    <state x="286" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1631554433979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1631554433979" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1632856742811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632856742811" />
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1632857273901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632857273901" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1632857273901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632857273901" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1632857273901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632857273901" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1632857273901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632857273901" />
+    <state x="541" y="115" key="RollbackChangesDialog" timestamp="1627627410884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1627627410884" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1632771079503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1632771079503" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1627626764497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1627626764497" />
+    <state x="360" y="23" key="new project wizard" timestamp="1632153361246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1632153361246" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1627627848830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1627627848830" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1632857072147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1632857072147" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/letscoding/batch/multithread/job/MultiThreadCronJobTasklet.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/batch/common/config/batch-common-config/0.0.1-SNAPSHOT/batch-common-config-0.0.1-SNAPSHOT.jar!/com/batch/common/config/batchcommonconfig/configuration/DbConfig.class</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/batch/common/config/batch-common-config/0.0.1-SNAPSHOT/batch-common-config-0.0.1-SNAPSHOT.jar!/com/batch/common/config/batchcommonconfig/configuration/DbConfig.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/letscoding/batch/multithread/config/MultiThreadCronJobConfiguration.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/letscoding/batch/multithread/config/MultiThreadCronJobConfiguration.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/letscoding/batch/multithread/config/MultiThreadCronJobConfiguration.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/batch/lets-coding-batch-spring-boot-starter/0.0.1/lets-coding-batch-spring-boot-starter-0.0.1.jar!/com/letscoding/batch/config/CronJobConfig.class</url>
+          <line>41</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/batch/lets-coding-batch-spring-boot-starter/0.0.1/lets-coding-batch-spring-boot-starter-0.0.1.jar!/com/letscoding/batch/config/CronJobConfig.class</url>
+          <line>51</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/batch/lets-coding-batch-spring-boot-starter/0.0.1/lets-coding-batch-spring-boot-starter-0.0.1.jar!/com/letscoding/batch/config/CronJobConfig.class</url>
+          <line>63</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/batch/lets-coding-batch-spring-boot-starter/0.0.1/lets-coding-batch-spring-boot-starter-0.0.1.jar!/com/letscoding/batch/config/CronJobConfig.class</url>
+          <line>70</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/batch/lets-coding-batch-spring-boot-starter/0.0.1/lets-coding-batch-spring-boot-starter-0.0.1.jar!/com/letscoding/batch/config/CronJobConfig.class</url>
+          <line>78</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/lib/lets-coding-db-spring-boot-starter-lib/0.0.1/lets-coding-db-spring-boot-starter-lib-0.0.1.jar!/com/letscoding/boot/db/configuration/PostgressDataSourceAutoConfiguration.class</url>
+          <line>84</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/lib/lets-coding-db-spring-boot-starter-lib/0.0.1/lets-coding-db-spring-boot-starter-lib-0.0.1.jar!/com/letscoding/boot/db/configuration/PostgressDataSourceAutoConfiguration.class</url>
+          <line>95</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/letscoding/lib/lets-coding-db-spring-boot-starter-lib/0.0.1/lets-coding-db-spring-boot-starter-lib-0.0.1.jar!/com/letscoding/boot/db/configuration/PostgressDataSourceAutoConfiguration.class</url>
+          <line>54</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/letscoding/batch/multithread/job/MultiThreadCronJobTasklet.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/letscoding/batch/multithread/SpringBatchApplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="this.CGLIB$CALLBACK_2" custom="com.letscoding.batch.config.CronJobConfig" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/batch_application$SpringBatchApplication.ic" NAME="SpringBatchApplication Coverage Results" MODIFIED="1617114534719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.batch.application.batchapplication.*</FILTER>
+    </SUITE>
+  </component>
+</project>
